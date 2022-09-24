@@ -1,0 +1,40 @@
+/*Menu стили*/
+header{
+    color: rgb(255, 255, 255);
+    width:96%;
+    height:400px;
+    margin:5px;
+    margin-right: auto;
+    font-size:24px;
+    font-weight:bold;
+}
+body{
+    margin-right: auto;
+    margin-left: auto;
+    background: url('img/333.jpg');
+}
+
+
+#tours{
+    text-align:left;
+    }
+.tour{
+    color: antiquewhite;
+    width:31%;
+    border:#f20000 solid 2px;
+    text-align: center;
+    padding:5px;
+    margin:3px;
+    float:left;
+    }
+.tour img{
+    height:150px;
+    }
+div.tour a{
+
+    background-color:#66CDAA;
+    text-decoration:none;
+    padding: 3px;
+    color:white;
+    box-shadow: 20px 0 20px -20px #000 inset, -20px 0 20px -20px #000 inset;
+    }
